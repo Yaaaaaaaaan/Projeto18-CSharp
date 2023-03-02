@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Projeto18
 {
-    internal class Program
+    internal class Funcionario
     {
-        static void Main(string[] args)
-        {
-
-        }
     }
 }
